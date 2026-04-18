@@ -1,0 +1,2 @@
+# SignWise
+AI Wallet assistant
